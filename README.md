@@ -8,7 +8,7 @@ This project's aim is to determine the corresponding concentration of ammonium s
 
 ### Getting Started
 
-This version was designed for python 3.6.6 or higher. To run the model's calculation, use the Python Notebook `main.ipynb`. The parameters of the model can be set by the user.
+This version was designed for python 3.6.6 or higher. To run the model's calculation, use the Python Notebook `main.ipynb`. The parameters of the model can be set by the user in this file.
 
 
 ### Prerequisites
@@ -51,4 +51,4 @@ Aubet Louise, louise.aubet@epfl.ch
 
 ### Project Status
 
-The project was submitted on the ... , as a semester project at EPFL
+The project was submitted on the 12th of Januray 2021, as a semester project at EPFL.
