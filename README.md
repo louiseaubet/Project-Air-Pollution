@@ -30,7 +30,7 @@ To launch the code `main.ipynb`, you need the following codes and files:
 * `model.py` : Contains the definition of the class Model
 * `helpers.py` : Contains some useful functions for upsampling or cross-validation
 
-The `data/raw` folder is also needed to store the input data. The following files are used : `IMPROVE_2011-2013_filterSubtractionV2.csv`, `IMPROVE_2011_2013_XRF_OC_ions_mug_cm2.csv`, `matched_std_2784_baselined_filter_subtracted.csv`, `FG_Ruthenburg_std_responses.csv`, `wavenumbers_2_zerofilling.txt`.
+The `data/raw` folder is also needed to store the input data. The following files are used : `IMPROVE_2011-2013_filterSubtractionV2.csv`, `IMPROVE_2011_2013_XRF_OC_ions_mug_cm2.csv`, `matched_std_2784_baselined_filter_subtracted.csv`, `FG_Ruthenburg_std_responses.csv`, `wavenumbers_2_zerofilling.txt`. Unfortunately, not all the files could have been downloaded on GitHub because there were too big.
 
 
 ### Additional content
